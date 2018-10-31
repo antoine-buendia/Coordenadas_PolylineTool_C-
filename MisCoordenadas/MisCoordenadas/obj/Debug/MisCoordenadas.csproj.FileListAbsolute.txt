@@ -1,0 +1,11 @@
+F:\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.exe.config
+F:\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.exe
+F:\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.pdb
+F:\TareaCoordenadas\MisCoordenadas\MisCoordenadas\obj\Debug\MisCoordenadas.exe
+F:\TareaCoordenadas\MisCoordenadas\MisCoordenadas\obj\Debug\MisCoordenadas.pdb
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.exe.config
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\obj\Debug\MisCoordenadas.exe
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\obj\Debug\MisCoordenadas.pdb
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.exe
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\bin\Debug\MisCoordenadas.pdb
+E:\GitHub\TareaCoordenadas\MisCoordenadas\MisCoordenadas\obj\Debug\MisCoordenadas.csprojResolveAssemblyReference.cache
